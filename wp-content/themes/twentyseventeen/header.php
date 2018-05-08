@@ -12,7 +12,7 @@
  * @version 1.0
  */
 
-?><!DOCTYPE html>
+?><!doctype html>
 <html <?php language_attributes(); ?> class="no-js no-svg">
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
